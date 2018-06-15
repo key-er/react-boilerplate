@@ -1,6 +1,4 @@
 ### node etc ###
-.DS_Store
-package-lock.json
 
 # Logs
 logs
@@ -30,8 +28,5 @@ dist/
 node_modules/
 bower_components/
 
-# Floobits
-.floo
-.floobit
-.floo
-.flooignore
+
+config.js
