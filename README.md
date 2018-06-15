@@ -1,3 +1,7 @@
+## my-app
+
+Done via react way
+
 `npm install create-react-app`
 `node node_modules/create-react-app/createReactApp.js my-app`
 
@@ -20,6 +24,16 @@ We suggest that you begin by typing:
 
   cd my-app
   npm start
+
+
+## my-app_two
+Done via ht way
+
+npm install
+
+npm run react-dev (compile jsx)
+
+npm run server-dev (runs nodemon)
 
 
 
